@@ -1,0 +1,12 @@
+D:\Phase 4\Practise Projects\SchoolLibrary\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.deps.json
+D:\Phase 4\Practise Projects\SchoolLibrary\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.dll
+D:\Phase 4\Practise Projects\SchoolLibrary\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.pdb
+D:\Phase 4\Practise Projects\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.csproj.AssemblyReference.cache
+D:\Phase 4\Practise Projects\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase 4\Practise Projects\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.AssemblyInfoInputs.cache
+D:\Phase 4\Practise Projects\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.AssemblyInfo.cs
+D:\Phase 4\Practise Projects\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+D:\Phase 4\Practise Projects\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.dll
+D:\Phase 4\Practise Projects\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\refint\SchoolLibrary.dll
+D:\Phase 4\Practise Projects\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.pdb
+D:\Phase 4\Practise Projects\SchoolLibrary\SchoolLibrary\obj\Debug\net6.0\ref\SchoolLibrary.dll

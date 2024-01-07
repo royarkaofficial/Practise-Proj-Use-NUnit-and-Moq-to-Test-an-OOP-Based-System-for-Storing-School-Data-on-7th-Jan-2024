@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BBY1mGI7XXteitAcElpD7SWLeEtq1nhvyjQGsxf7/eE7P258xGTiiQo4mNGjTuRdCFWol1ePYiW9DFYcirgq/w==",
+  "success": true,
+  "projectFilePath": "D:\\Phase 4\\Practise Projects\\SchoolLibrary\\SchoolLibrary\\SchoolLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arkadeep\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Arkadeep\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Arkadeep\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\Arkadeep\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Arkadeep\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Arkadeep\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
